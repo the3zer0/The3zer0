@@ -61,7 +61,7 @@ I’m **Md Rahat Mahmud**, a CSE student and developer from **Bangladesh**. I bu
   <a href="https://github.com/the3zer0?tab=repositories">
     <img src="https://img.shields.io/badge/Explore-Public%20Repositories-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="Explore public repositories" />
   </a>
-  <p><strong>Current streak · Oct 26 – Nov 7, 2026</strong></p>
+  <p><strong>Current streak · 13 days · Oct 26 – Nov 7, 2026</strong></p>
   <img src="https://streak-stats.demolab.com?user=the3zer0&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak statistics" />
   <br />
   <sub><a href="https://github.com/the3zer0">View my GitHub profile and contribution calendar</a></sub>
