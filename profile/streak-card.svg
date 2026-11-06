@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="190" viewBox="0 0 540 190" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Current GitHub streak: 13 days</title>
+  <desc id="desc">A 13-day contribution streak from October 26 to November 7, 2026.</desc>
+  <defs>
+    <linearGradient id="accent" x1="52" y1="18" x2="488" y2="172" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#78A9FF"/>
+      <stop offset="1" stop-color="#B794F4"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="218" y1="36" x2="322" y2="140" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#79A9FF"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="538" height="188" rx="16" fill="#0D1117" stroke="#252C36" stroke-width="2"/>
+  <path d="M28 1h484" stroke="url(#accent)" stroke-width="3"/>
+  <text x="32" y="39" fill="#8B949E" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">GITHUB CONTRIBUTION STREAK</text>
+  <circle cx="270" cy="96" r="48" stroke="#212936" stroke-width="8"/>
+  <circle cx="270" cy="96" r="48" stroke="url(#ring)" stroke-width="8" stroke-linecap="round" stroke-dasharray="285 17" transform="rotate(-90 270 96)"/>
+  <text x="270" y="105" text-anchor="middle" fill="#C9A7FF" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="700">13</text>
+  <text x="270" y="164" text-anchor="middle" fill="#C9A7FF" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">CURRENT STREAK</text>
+  <text x="270" y="183" text-anchor="middle" fill="#42D6C5" font-family="Segoe UI,Arial,sans-serif" font-size="12">Oct 26 – Nov 7, 2026</text>
+</svg>
