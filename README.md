@@ -47,7 +47,7 @@ I’m **Md Rahat Mahmud**, a CSE student and developer from **Bangladesh**. I bu
 |:--|:--|:--|:--:|
 | **[BazarDor](https://github.com/the3zer0/Bazardor)** | Bengali market-price dashboard with category sorting, market comparisons, and authentication. | Next.js · TypeScript · Tailwind CSS · Better Auth | [Live](https://bazardor-azure.vercel.app) |
 | **[FitLog](https://github.com/the3zer0/Fitlog-)** | Workout explorer with daily planning, saved workouts, and completion tracking. | Next.js · React · TypeScript · Tailwind CSS | [Live](https://fitlog-xi-ten.vercel.app) |
-| **[Movie Explorer](https://github.com/the3zer0/Movie-Explorer)** | Search TV shows and explore detailed information in a focused interface. | React · Vite · JavaScript · Tailwind CSS | [Live](https://movie-explorer-sooty-eta.vercel.app) |
+| **[Maowa.me](https://github.com/the3zer0/Maowa.me)** | Cinematic portfolio showcasing video editing, motion graphics, and visual storytelling. | React · Vite · JavaScript · Framer Motion · GSAP | [Live](https://maowa.me/) |
 | **[Payoo — Wallet Demo](https://github.com/the3zer0/Payoo-app)** | Educational wallet simulation with transfers, bill payments, and transaction history. | HTML · CSS · JavaScript | [Live](https://payoomobileapp-orcin.vercel.app) |
 
 <sub>Payoo is a learning project and is not a real financial service.</sub>
