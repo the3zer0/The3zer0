@@ -1,101 +1,83 @@
-<!-- GitHub Profile README for @the3zer0 -->
+<!-- Premium GitHub Profile README for @the3zer0 -->
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:0F172A,50:1D4ED8,100:06B6D4&amp;text=Md%20Rahat%20Mahmud&amp;fontColor=FFFFFF&amp;fontSize=43&amp;fontAlignY=39&amp;desc=Frontend%20Developer%20%7C%20Aspiring%20Full-Stack%20Engineer&amp;descAlignY=61&amp;descSize=17&amp;animation=fadeIn&amp;section=header"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1020,48:172554,100:0E7490&text=Md%20Rahat%20Mahmud&fontColor=F8FAFC&fontSize=44&fontAlignY=39&desc=Frontend%20Developer%20%7C%20Aspiring%20Full-Stack%20Engineer&descAlignY=61&descSize=17&animation=fadeIn&section=header"
     alt="Md Rahat Mahmud — Frontend Developer and Aspiring Full-Stack Engineer"
     width="100%"
   />
 
-  <h3>Building thoughtful web experiences, one project at a time.</h3>
-  <p>CSE Student &nbsp;•&nbsp; Web Developer &nbsp;•&nbsp; Based in Bangladesh 🇧🇩</p>
+  <p><strong>Thoughtful interfaces. Useful products. Continuous growth.</strong></p>
+  <p>CSE Student&nbsp; · &nbsp;Web Developer&nbsp; · &nbsp;Bangladesh 🇧🇩</p>
 
-  <a href="https://rahattech.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/mahmud3zer0">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/the3zer0">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:mdayatmahmud.101@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Md Rahat Mahmud" />
-  </a>
+  <a href="https://rahattech.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0B1020?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mahmud3zer0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mdayatmahmud.101@gmail.com"><img src="https://img.shields.io/badge/Email-B42318?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm **Md Rahat Mahmud**, a CSE student and aspiring full-stack developer from **Bangladesh**. I enjoy turning ideas into responsive, practical web applications and learning how polished interfaces work behind the scenes.
+I’m **Md Rahat Mahmud**, a CSE student and developer from **Bangladesh**. I build responsive web experiences with a focus on clear interfaces, practical features, and maintainable code.
 
-I care about **clean UI, useful features, and continuous improvement**. My interests span web development, creative digital work, and building products that solve real problems.
+- **Building:** React and Next.js applications with user-focused features
+- **Exploring:** TypeScript, authentication, Python/Django, and databases
+- **Improving:** Reusable components, project structure, and documentation
+- **Outside the editor:** Video editing, content creation, and digital products
 
-- 🔭 **Currently building:** React and Next.js projects with practical, user-focused features.
-- 🌱 **Currently exploring:** TypeScript, modern authentication, Python/Django, and databases.
-- 🧩 **Working on:** Better project structure, reusable components, and clear documentation.
-- 🎬 **Beyond code:** Video editing, content creation, and experimenting with digital products.
-- 📫 **Reach me:** [Email](mailto:mdayatmahmud.101@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mahmud3zer0)
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-**Frontend & Languages**
+**Frontend & Languages**  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark&perline=7" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, and Tailwind CSS" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&amp;theme=dark&amp;perline=7" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS" />
+**Backend & Databases · Exploring**  
+<img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite&theme=dark&perline=4" alt="Python, Django, PostgreSQL, and SQLite" />
 
-**Backend & Databases — Learning / Exploring**
-
-<img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite&amp;theme=dark&amp;perline=4" alt="Python, Django, PostgreSQL, SQLite" />
-
-**Development Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&amp;theme=dark&amp;perline=3" alt="Git, GitHub, Visual Studio Code" />
+**Tools**  
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" alt="Git, GitHub, and Visual Studio Code" />
 
 </div>
 
-## 🚀 Featured Projects
+## Selected Projects
 
-| Project | What it does | Stack | Links |
-|:--|:--|:--|:--|
-| **[BazarDor](https://github.com/the3zer0/Bazardor)** | Bengali market-price dashboard with category sorting, market comparisons, and authentication. | Next.js · TypeScript · Tailwind CSS · Better Auth | [Live Demo](https://bazardor-azure.vercel.app) |
-| **[FitLog](https://github.com/the3zer0/Fitlog-)** | Workout explorer with daily planning, saved workouts, and completion tracking. | Next.js · React · TypeScript · Tailwind CSS | [Live Demo](https://fitlog-xi-ten.vercel.app) |
-| **[Movie Explorer](https://github.com/the3zer0/Movie-Explorer)** | Explore and search TV shows, then view detailed information in a modal. | React · Vite · JavaScript · Tailwind CSS | [Live Demo](https://movie-explorer-sooty-eta.vercel.app) |
-| **[Payoo — Wallet Demo](https://github.com/the3zer0/Payoo-app)** | Educational digital-wallet simulation with transfers, cash-out, bills, and transaction history. | HTML · CSS · Vanilla JavaScript | [Live Demo](https://payoomobileapp-orcin.vercel.app) |
+| Project | Overview | Built with | |
+|:--|:--|:--|:--:|
+| **[BazarDor](https://github.com/the3zer0/Bazardor)** | Bengali market-price dashboard with category sorting, market comparisons, and authentication. | Next.js · TypeScript · Tailwind CSS · Better Auth | [Live](https://bazardor-azure.vercel.app) |
+| **[FitLog](https://github.com/the3zer0/Fitlog-)** | Workout explorer with daily planning, saved workouts, and completion tracking. | Next.js · React · TypeScript · Tailwind CSS | [Live](https://fitlog-xi-ten.vercel.app) |
+| **[Movie Explorer](https://github.com/the3zer0/Movie-Explorer)** | Search TV shows and explore detailed information in a focused interface. | React · Vite · JavaScript · Tailwind CSS | [Live](https://movie-explorer-sooty-eta.vercel.app) |
+| **[Payoo — Wallet Demo](https://github.com/the3zer0/Payoo-app)** | Educational wallet simulation with transfers, bill payments, and transaction history. | HTML · CSS · JavaScript | [Live](https://payoomobileapp-orcin.vercel.app) |
 
-> **Note:** Payoo is a learning/demo project, not a real financial service.
+<sub>Payoo is a learning project and is not a real financial service.</sub>
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=the3zer0&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight&amp;bg_color=0D1117&amp;rank_icon=github"
-    alt="Md Rahat Mahmud's GitHub statistics"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=the3zer0&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight&amp;bg_color=0D1117&amp;langs_count=7"
-    alt="Most used languages in public GitHub repositories"
-  />
+  <a href="https://github.com/the3zer0">
+    <img src="https://img.shields.io/github/followers/the3zer0?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=172554" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/the3zer0?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-Public%20Repositories-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="Explore public repositories" />
+  </a>
+  <br /><br />
+  <img src="https://streak-stats.demolab.com?user=the3zer0&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak statistics" />
   <br />
-  <img
-    src="https://streak-stats.demolab.com?user=the3zer0&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117"
-    alt="GitHub contribution streak statistics"
-  />
+  <sub><a href="https://github.com/the3zer0">View my GitHub profile and contribution calendar</a></sub>
 </div>
 
-## 🤝 Let's Connect
+## Let’s Connect
 
-I'm always interested in learning from other developers, collaborating on meaningful ideas, and improving my craft.
-
-**[Portfolio](https://rahattech.vercel.app)** · **[LinkedIn](https://www.linkedin.com/in/mahmud3zer0)** · **[GitHub](https://github.com/the3zer0)** · **[Email](mailto:mdayatmahmud.101@gmail.com)**
+Open to learning, collaborating, and building useful things with other developers.
 
 <div align="center">
+  <a href="https://rahattech.vercel.app">Portfolio</a>&nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/mahmud3zer0">LinkedIn</a>&nbsp; · &nbsp;
+  <a href="mailto:mdayatmahmud.101@gmail.com">Email</a>
+  <br /><br />
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;height=110&amp;section=footer&amp;color=0:0F172A,50:1D4ED8,100:06B6D4"
+    src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0B1020,48:172554,100:0E7490"
     alt="Profile footer"
     width="100%"
   />
