@@ -62,7 +62,7 @@ I’m **Md Rahat Mahmud**, a CSE student and developer from **Bangladesh**. I bu
     <img src="https://img.shields.io/badge/Explore-Public%20Repositories-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="Explore public repositories" />
   </a>
   <br /><br />
-  <img src="./profile/streak-card.svg" alt="Current GitHub streak: 13 days, October 26 to November 7, 2026" width="540" />
+  <img src="./profile/streak-card.svg" alt="Current GitHub streak: 15 days as of November 10, 2026" width="540" />
   <br />
   <sub><a href="https://github.com/the3zer0">View my GitHub profile and contribution calendar</a></sub>
 </div>
