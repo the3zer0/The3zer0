@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="540" height="190" viewBox="0 0 540 190" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Current GitHub streak: 13 days</title>
-  <desc id="desc">A 13-day contribution streak from October 26 to November 7, 2026.</desc>
+  <title id="title">Current GitHub streak: 15 days</title>
+  <desc id="desc">A 15-day contribution streak snapshot as of November 10, 2026.</desc>
   <defs>
     <linearGradient id="accent" x1="52" y1="18" x2="488" y2="172" gradientUnits="userSpaceOnUse">
       <stop stop-color="#78A9FF"/>
@@ -16,7 +16,7 @@
   <text x="32" y="39" fill="#8B949E" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">GITHUB CONTRIBUTION STREAK</text>
   <circle cx="270" cy="96" r="48" stroke="#212936" stroke-width="8"/>
   <circle cx="270" cy="96" r="48" stroke="url(#ring)" stroke-width="8" stroke-linecap="round" stroke-dasharray="285 17" transform="rotate(-90 270 96)"/>
-  <text x="270" y="105" text-anchor="middle" fill="#C9A7FF" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="700">13</text>
+  <text x="270" y="105" text-anchor="middle" fill="#C9A7FF" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="700">15</text>
   <text x="270" y="164" text-anchor="middle" fill="#C9A7FF" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">CURRENT STREAK</text>
-  <text x="270" y="183" text-anchor="middle" fill="#42D6C5" font-family="Segoe UI,Arial,sans-serif" font-size="12">Oct 26 – Nov 7, 2026</text>
+  <text x="270" y="183" text-anchor="middle" fill="#42D6C5" font-family="Segoe UI,Arial,sans-serif" font-size="12">As of Nov 10, 2026</text>
 </svg>
